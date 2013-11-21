@@ -33,7 +33,11 @@ if (process.argv[2] == 'status') {
 
 } else if (process.argv[2] == 'merge') {
 
-	console.log ("Merging in ")
+	console.log("Merging in ");
+
+} else if (process.argv[2] == 'commit') {
+
+	console.log("...seppuku?");
 
 } else {
 

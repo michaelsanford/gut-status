@@ -5,3 +5,6 @@ Because `gut status` [should be a thing](https://twitter.com/cyclopslabs/status/
 
 # Install
 `echo 'alias gut="node gut.js"' > ~/.bashrc`
+
+## Commit
+Added `commit` verb for [Krill Grouchnikov](https://plus.google.com/108761828584265913206/posts/S8NXUZXygs6).
