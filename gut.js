@@ -39,6 +39,18 @@ if (process.argv[2] == 'status') {
 
 	console.log("...seppuku?");
 
+} else if (process.argv[2] == 'stash') {
+
+	if (process.argv[3] == 'apply') {
+
+		console.log("Eating the 3 week old leftovers.");
+
+	} else {
+
+		console.log("Stashing leftovers for later consumption.");
+
+	}
+
 } else {
 
 	console.log("That verb is not currently supported.");
